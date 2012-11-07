@@ -11,9 +11,12 @@ public class Test1 {
 	public void init(){
 
 	}
+<<<<<<< HEAD
 	public void a(){
 		
 	}
+=======
+>>>>>>> branch 'master' of git@github.com:wuzhelan/test.git
 	public void b(){
 		
 	}
